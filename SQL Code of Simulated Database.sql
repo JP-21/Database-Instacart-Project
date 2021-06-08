@@ -1,4 +1,4 @@
-use gold09_database;
+
 
 drop table orders;
 drop table customer;
